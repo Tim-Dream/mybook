@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
+title:            Dream-代码库
+longtitle:        Dream-代码库
 author:           HE Tao
-email:            sighingnow@gmail.com
+email:            13866131255@163.com
 description: >
-  Build Jekyll site with the GitBook style.
+  代码整理
 
 version:          1.0
 gitbook_version:  3.2.3
