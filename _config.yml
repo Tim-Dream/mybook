@@ -14,7 +14,7 @@ baseurl:          '/mybook'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: sighingnow/mybook
+remote_theme: sighingnow/jekyll-gitbook
 
 toc:
   enabled: true
